@@ -1,4 +1,6 @@
-I hear and I forget, I see and I remember, I do and I understand.
+- I hear and I forget
+- I see and I remember
+- I do and I understand
 
 ## Coding Experiences
 ### Programming Languages
@@ -23,6 +25,3 @@ I hear and I forget, I see and I remember, I do and I understand.
 4. Some SQL
 5. Some Maching Learning
 
-
-
-I sleep when I want to sleep...
