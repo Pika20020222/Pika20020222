@@ -1,3 +1,1 @@
-<p>I see and I forget.</p>
-<p>I hear and I remember.</p>
-<p>I do and I understand.</p>
+I hear and I forget, I see and I remember, I do and I understand.
